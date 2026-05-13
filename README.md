@@ -9,6 +9,7 @@ https://github.com/khenan-newbie/portfolio
 ## Live Project
 
 https://khenan-newbie.github.io/portfolio/
+https://roadmap.sh/projects/portfolio-website
 
 ## Features
 
