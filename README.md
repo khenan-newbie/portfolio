@@ -2,6 +2,10 @@
 
 This is my personal portfolio website built to showcase my projects, skills, and experience as a developer.
 
+## Project URL
+
+https://github.com/khenan-newbie/portfolio
+
 ## Features
 
 - Responsive design
