@@ -6,6 +6,10 @@ This is my personal portfolio website built to showcase my projects, skills, and
 
 https://github.com/khenan-newbie/portfolio
 
+## Live Project
+
+https://khenan-newbie.github.io/portfolio/
+
 ## Features
 
 - Responsive design
